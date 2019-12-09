@@ -1,4 +1,10 @@
 this is a repo for mernstack starter without redux.
 
-cd /client
->>> create-react-app .
+
+For all Frontend packages, install it in `client` folder
+
+> cd /client
+
+> npm [package name]
+
+> create-react-app .
