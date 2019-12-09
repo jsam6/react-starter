@@ -5,6 +5,6 @@ For all Frontend packages, install it in `client` folder
 
 > cd /client
 
-> npm [package name]
+> npm install [package name]
 
 > create-react-app .
