@@ -7,10 +7,10 @@ const axios = require('axios');
 
 
 // // User Model
-const UserModel = require('../../models/User');
+const UserModel = require('../models/User');
 
 const mongo = require('mongoose');
-const conn = require('../../config/keys').mongoURI;
+const conn = require('../config/keys').mongoURI;
 
 
 const mongoDB = async (url, email) => {
