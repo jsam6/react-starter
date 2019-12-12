@@ -1,14 +1,14 @@
-this is a repo for MERN stack starter without redux.
+This is a repo for `MERN` stack starter without redux.
 
-Frontend: React
+- **Frontend**: React
 
-Backend: ExpressJS
+- **Backend**: ExpressJS
 
-Database: Mongo 
+- **Database**: Mongo 
 
-Server: Node
+- **Server**: Node
 
-> disclaimer: Make sure to have Mongo and Node installed in your env. 
+> Disclaimer: Make sure to have Mongo and Node installed in your env. 
 
 > To check if Mongo is installed. 
 
@@ -16,14 +16,14 @@ Server: Node
 mongo status
 ```
 
-If the output has `MongoDB shell version v4.2.1` means it is installed
+If the output has `MongoDB shell version v4.2.1`, means it is installed
 
 > To check if Node is installed.
 ```
 node --version
 ```
 
-If the output displays the version  `v{VERSION_NUMBER}` means it is installed
+If the output displays the version  `v{VERSION_NUMBER}`, means it is installed
 
 ## Usage
 
